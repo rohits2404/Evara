@@ -2,15 +2,15 @@
 
 <div align="center">
 
-![Evara Banner](https://via.placeholder.com/900x200/0e0e0a/e2be42?text=Evara+%E2%80%94+AI+Event+Concierge)
+![Evara Banner](https://ambitious-ivory-es1lgfeou2.edgeone.app)
 
 **A production-grade MERN stack platform that uses OpenAI GPT to generate curated corporate event venue proposals from natural language descriptions.**
 
-[![Node.js](https://img.shields.io/badge/Node.js-20-green?style=flat-square&logo=node.js)](https://nodejs.org)
-[![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)](https://react.dev)
-[![MongoDB](https://img.shields.io/badge/MongoDB-7-green?style=flat-square&logo=mongodb)](https://mongodb.com)
-[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--4o--mini-412991?style=flat-square&logo=openai)](https://openai.com)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind-3-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com)
+[![Node.js](https://img.shields.io/badge/Node.js-22-green?style=flat-square&logo=node.js)](https://nodejs.org)
+[![React](https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react)](https://react.dev)
+[![MongoDB](https://img.shields.io/badge/MongoDB-9-green?style=flat-square&logo=mongodb)](https://mongodb.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI-GPT--OSS--20b-412991?style=flat-square&logo=openai)](https://openai.com)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind-4-38bdf8?style=flat-square&logo=tailwindcss)](https://tailwindcss.com)
 
 </div>
 
@@ -32,10 +32,10 @@
 
 | Layer     | Technology                              |
 |-----------|-----------------------------------------|
-| Frontend  | React 18, Vite, TailwindCSS 3, Framer Motion |
-| Backend   | Node.js 20, Express 4, express-validator |
+| Frontend  | React 19, Vite, TailwindCSS 4, Framer Motion |
+| Backend   | Node.js 22, Express 5, express-validator |
 | Database  | MongoDB (Mongoose ODM)                  |
-| AI        | OpenAI GPT-4o-mini (JSON mode)          |
+| AI        | OpenAI GPT-OSS-20b (JSON mode)          |
 | Fonts     | Cormorant Garamond, DM Sans, JetBrains Mono |
 | Deploy    | Frontend → Vercel · Backend → Vercel   |
 
@@ -44,7 +44,7 @@
 ## 📁 Project Structure
 
 ```
-ai-event-concierge/
+evara/
 ├── backend/
 │   ├── config/
 │   │   ├── db.js            # MongoDB connection
