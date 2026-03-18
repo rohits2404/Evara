@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Evara Banner](https://api.thum.io/get/width/1200/crop/600/https://ambitious-ivory-es1lgfeou2.edgeone.app)
+![Evara Banner](https://res.cloudinary.com/dfzosku4o/image/upload/v1773864640/qkprrdopgurh6or7bb6q.png)
 
 **A production-grade MERN stack platform that uses OpenAI GPT to generate curated corporate event venue proposals from natural language descriptions.**
 
